@@ -1,0 +1,25 @@
+{
+  "name": "nameste-react-new",
+  "version": "1.0.0",
+  "description": "Swiggy portal by Koushik Ghosh",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koushik3004/namaste-react-new.git"
+  },
+  "keywords": [
+    "swigy"
+  ],
+  "author": "Koushik Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koushik3004/namaste-react-new/issues"
+  },
+  "homepage": "https://github.com/Koushik3004/namaste-react-new#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
